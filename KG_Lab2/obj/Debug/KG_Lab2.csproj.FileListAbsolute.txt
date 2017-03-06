@@ -1,0 +1,9 @@
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab2\KG_Lab2\bin\Debug\KG_Lab2.exe.config
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab2\KG_Lab2\bin\Debug\KG_Lab2.exe
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab2\KG_Lab2\bin\Debug\KG_Lab2.pdb
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab2\KG_Lab2\obj\Debug\KG_Lab2.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab2\KG_Lab2\obj\Debug\KG_Lab2.Form1.resources
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab2\KG_Lab2\obj\Debug\KG_Lab2.Properties.Resources.resources
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab2\KG_Lab2\obj\Debug\KG_Lab2.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab2\KG_Lab2\obj\Debug\KG_Lab2.exe
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab2\KG_Lab2\obj\Debug\KG_Lab2.pdb
